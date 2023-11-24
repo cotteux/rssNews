@@ -1,9 +1,8 @@
 # rssNews
-Project to bring daily news to people who like to use terminal/cmd more.
+Project to bring daily news to people to Nomadnet Reticulum network.
 
 ## Motive
-Working daily on terminal / cmd / powershell, switching to and fro from browser to cli
-is a mess ! So this project is intended to bring the daily / recent news to terminal
+So this project is intended to bring the daily / recent news to terminal
 by parsing the rss feed of all / any websites.
 
 All developers are welcome to make changes / enhance.
@@ -23,8 +22,9 @@ All developers are welcome to make changes / enhance.
 
 ## Usage
 	
-	python3 rssnews.py
-	python3 rssnews.py | less (to scroll through the news)
+	put the rssnews.mu in you .nomadnet/storage/pages/
+ 
+	
 
 ## Screenshot
 ![sample screenshot](https://raw.githubusercontent.com/sathwikv143/rssNews/master/sample.png "Screenshot with News")
