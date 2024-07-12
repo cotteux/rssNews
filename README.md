@@ -22,7 +22,7 @@ All developers are welcome to make changes / enhance.
 
 ## Usage
 	
-	put the rssnews.mu in you .nomadnet/storage/pages/
+	put the rssnews.mu in you .nomadnet/storage/pages/ and add menu option in config.yaml
  
 	
 
